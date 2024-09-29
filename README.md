@@ -1,1 +1,1 @@
-Testing translation API from Yandex
+Testing translation API from Yandex, using Spring Security 6
